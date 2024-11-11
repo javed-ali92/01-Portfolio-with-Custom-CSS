@@ -16,11 +16,13 @@ export default function Home() {
         </div>
         
         <div className="text-container">
-          <h1>Hi, I'm Javed Ali</h1>
+          <h1>Hi I&apos;m Javed Ali</h1>
           <h2>Web Developer</h2>
-          <p>I am a passionate web developer and 
+          <p>
+            I&apos;m a passionate web developer and 
             <br />
-            Here, you can explore my expertise and creative projects.</p>
+            Here you can explore my expertise and creative projects
+          </p>
         </div>
       </div>
     </div>
