@@ -19,7 +19,7 @@ export default function Project(){
         <p>
         An interactive resume built with TypeScript, HTML, and CSS, enabling users to dynamically showcase their skills.
         </p>
-        <button type="button"><a href="https://static-interactive-resume-builder-gamma.vercel.app//"  target="_blank">View Resume</a></button>
+        <button type="button"><a href="https://static-resume-theta-ashy.vercel.app/"  target="_blank">View Resume</a></button>
       </div>
         </div>     
 
