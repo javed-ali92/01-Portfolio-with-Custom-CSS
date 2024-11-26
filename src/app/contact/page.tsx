@@ -1,4 +1,5 @@
 import "../../style/contact.css";
+import Image from "next/image";
 
 export default function Contact() {
   return (
@@ -29,7 +30,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="link-item"
           >
-            <img
+            <Image
               src="github.png"
               alt="GitHub"
             />
@@ -40,7 +41,7 @@ export default function Contact() {
             rel="noopener noreferrer"
             className="link-item"
           >
-            <img
+            <Image
               src="linkdin.png"
               alt="LinkedIn"
             />
@@ -49,7 +50,7 @@ export default function Contact() {
             href="mailto:javed.ali.1121974@gmail.com"
             className="link-item"
           >
-            <img
+            <Image
               src="gmail.png"
               alt="Gmail"
             />

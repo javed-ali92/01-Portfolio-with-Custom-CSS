@@ -87,7 +87,7 @@ export default function Project() {
 
           <h3>Governor Website</h3>
           <p>
-          Develop a website for the Governor's House that showcases its history, architecture, and current events. Include sections for public announcements, visitor information, and a gallery of images
+          Develop a website for the Governor House that showcases its history, architecture, and current events. Include sections for public announcements, visitor information, and a gallery of images
           </p>
           <button type="button">
             <a
