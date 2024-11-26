@@ -98,8 +98,7 @@ export default function Project() {
             </a>
           </button>
         </div>
-
       </div>
-    </div>
-  );
+      </div>
+  )
 }
