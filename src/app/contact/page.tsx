@@ -31,8 +31,10 @@ export default function Contact() {
             className="link-item"
           >
             <Image
-              src="github.png"
+              src="/github.png"
               alt="GitHub"
+              height="100"
+              width="100"
             />
           </a>
           <a
@@ -42,8 +44,10 @@ export default function Contact() {
             className="link-item"
           >
             <Image
-              src="linkdin.png"
+              src="/linkdin.png"
               alt="LinkedIn"
+              height="100"
+              width="100"
             />
           </a>
           <a
@@ -51,8 +55,10 @@ export default function Contact() {
             className="link-item"
           >
             <Image
-              src="gmail.png"
+              src="/gmail.png"
               alt="Gmail"
+              height="100"
+              width="100"
             />
           </a>
         </div>
