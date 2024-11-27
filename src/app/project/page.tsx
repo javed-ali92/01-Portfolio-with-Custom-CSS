@@ -45,7 +45,7 @@ export default function Project() {
           </p>
           <button type="button">
             <a
-              href="https://governor-sindh-website-eight.vercel.app/"
+              href="https://next-js-calculator-pearl.vercel.app/"
               target="_blank"
             >
               View Calculator
@@ -76,7 +76,7 @@ export default function Project() {
           </button>
         </div>
 
-        <div className="project-item">
+       <div className="project-item">
           <Image
             src="/governor-web.png"
             alt="Portfolio Item Image"
@@ -97,7 +97,30 @@ export default function Project() {
               View Website
             </a>
           </button>
-        </div>
+        </div> 
+
+       <div className="project-item">
+          <Image
+            src="/joke.png"
+            alt="joke"
+            width={300}
+            height={250}
+            className="portfolio-image"
+          />
+
+          <h3>Random Joke</h3>
+          <p>
+          Introducing the Random Joke Maker: a fun and engaging tool designed to bring laughter to your day! This user-friendly app generates a wide variety of jokes, ensuring there something for everyone.          </p>
+          <button type="button">
+            <a
+              href="https://next-js-random-joke-generator.vercel.app/"
+              target="_blank"
+            >
+              View Joke
+            </a>
+          </button>
+        </div> 
+
       </div>
       </div>
   )
