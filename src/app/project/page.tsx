@@ -121,6 +121,28 @@ export default function Project() {
           </button>
         </div> 
 
+        <div className="project-item">
+          <Image
+            src="/color_picker_nextjs.PNG"
+            alt="joke"
+            width={300}
+            height={250}
+            className="portfolio-image"
+          />
+
+          <h3>Color Picker</h3>
+          <p>
+          Introducing the Random Color Picker: A fun and engaging tool designed to bring color in your life! This user-friendly app generates a wide range of colors, ensuring there something for everyone.</p>
+          <button type="button">
+            <a
+              href="https://color-picker-nextjs.vercel.app/"
+              target="_blank"
+            >
+              View Color
+            </a>
+          </button>
+        </div> 
+
       </div>
       </div>
   )
